@@ -1,0 +1,15 @@
+button {
+    background-color: red;
+    color: yellow;
+}
+
+.close80 {
+    font-size: 80px;
+}
+.containerlandscape {
+    margin: auto;
+    vertical-align: middle;
+    font-weight: bold;
+    font-size: 70px;
+    color: darkgreen;
+}
