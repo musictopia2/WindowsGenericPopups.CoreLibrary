@@ -2,5 +2,5 @@
 public enum EnumTimePopupDisplayMode
 {
     Normal,
-    Hidden
+    Toast
 }
